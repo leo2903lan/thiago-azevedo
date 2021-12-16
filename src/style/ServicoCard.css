@@ -1,0 +1,18 @@
+.marginTop{
+  margin-top: 10px;
+}
+.card {
+  margin: 0.5rem;
+}
+.card:hover {
+  box-shadow: 5px 10px 20px 1px rgba(255, 255, 255, 0.273) !important;
+}
+.card-text {
+  padding: 0.3rem;
+}
+.fixedHeightImg > img {
+  max-height: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}

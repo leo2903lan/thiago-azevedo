@@ -3,6 +3,7 @@ import lady from '../images/lady-justice-2388500_960_720.webp';
 import empresa from '../images/man-5806012_960_720.webp'
 import digital from '../images/right-4926156_960_720.webp'
 import { Carousel } from 'react-bootstrap';
+import '../style/Carrosel.css';
 
 export default function Carrosel() {
   return (
