@@ -17,7 +17,7 @@ export default function News() {
           </Card.Footer>
         </Card>
         <Card>
-          <Card.Img  variant="top" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Ordem_dos_Advogados.png" />
+          <Card.Img  variant="top" src="https://portal.oa.pt/media/1022/logo-oa-big.png?center=0.48636363636363639,0.14909090909090908&mode=crop&width=275&rnd=131188469140000000" />
           <Card.Body>
             <Card.Title>Ordem dos Advogados Portugues</Card.Title>
             <Card.Text>
