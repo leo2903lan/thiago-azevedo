@@ -10,11 +10,11 @@ export default function Home() {
     <>
       <Header />
       <main className="container" style={{marginTop: 30}}>
+          <Carrosel />
         <div className="row">
           <About />
           <News />
         </div>
-          <Carrosel />
       </main>
       <Footer />
     </>
